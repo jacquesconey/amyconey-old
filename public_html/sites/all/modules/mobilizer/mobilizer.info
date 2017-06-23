@@ -1,0 +1,14 @@
+name = Mobilizer
+description = Provides feature to create a mobile site from current live web site.
+package = Mobilizer
+core = 7.x
+
+configure = admin/mobilizer/start-mobilizer
+
+
+; Information added by drupal.org packaging script on 2013-06-10
+version = "7.x-1.0"
+core = "7.x"
+project = "mobilizer"
+datestamp = "1370874056"
+

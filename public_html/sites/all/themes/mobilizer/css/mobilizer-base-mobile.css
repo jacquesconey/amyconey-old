@@ -1,0 +1,4 @@
+#page{ background : #fff url("./images/background.jpg") top left repeat fixed;}
+h1{ font-family : "open sans", serif;}
+a{ text-decoration : none !important;color : blue;}
+a:visited{ color : purple;}

@@ -1,0 +1,1 @@
+[04-Mar-2017 07:43:36 UTC] PHP Fatal error:  Call to undefined function theme_get_setting() in /home/amycon01/public_html/sites/all/themes/bootstrap/theme/common.inc on line 12

@@ -1,0 +1,10 @@
+name = customTheme
+description = custom theme
+core = 7.x
+base theme = bootstrap
+stylesheets[all][] = css/style.css
+stylesheets[(max-width: 480px)][] = css/480.css
+stylesheets[(max-width: 600px)][] = css/600.css
+stylesheets[(max-width: 768px)][] = css/768.css
+stylesheets[(max-width: 992px)][] = css/992.css
+stylesheets[(max-width: 1382px)][] = css/1382.css
